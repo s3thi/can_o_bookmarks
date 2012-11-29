@@ -6,7 +6,7 @@
 	"browser_action": {
 		"default_title": "Bookmark on AnkurSethi.in",
 		"default_icon": {
-			"19": "as.png"
+			"19": "bookmark.png"
 		}
 	},
 	"background": {
